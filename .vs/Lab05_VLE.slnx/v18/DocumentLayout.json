@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MY COMPUTER\\source\\repos\\Lab05_VLE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE865DAE-8309-43D8-A762-A84DADE8217D}|Lab05_VLE\\Lab05_VLE.csproj|c:\\users\\my computer\\source\\repos\\lab05_vle\\lab05_vle\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE865DAE-8309-43D8-A762-A84DADE8217D}|Lab05_VLE\\Lab05_VLE.csproj|solutionrelative:lab05_vle\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE865DAE-8309-43D8-A762-A84DADE8217D}|Lab05_VLE\\Lab05_VLE.csproj|c:\\users\\my computer\\source\\repos\\lab05_vle\\lab05_vle\\frmxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE865DAE-8309-43D8-A762-A84DADE8217D}|Lab05_VLE\\Lab05_VLE.csproj|solutionrelative:lab05_vle\\frmxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE865DAE-8309-43D8-A762-A84DADE8217D}|Lab05_VLE\\Lab05_VLE.csproj|c:\\users\\my computer\\source\\repos\\lab05_vle\\lab05_vle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE865DAE-8309-43D8-A762-A84DADE8217D}|Lab05_VLE\\Lab05_VLE.csproj|solutionrelative:lab05_vle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE865DAE-8309-43D8-A762-A84DADE8217D}|Lab05_VLE\\Lab05_VLE.csproj|c:\\users\\my computer\\source\\repos\\lab05_vle\\lab05_vle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE865DAE-8309-43D8-A762-A84DADE8217D}|Lab05_VLE\\Lab05_VLE.csproj|solutionrelative:lab05_vle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmXuat.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MY COMPUTER\\source\\repos\\Lab05_VLE\\Lab05_VLE\\FrmXuat.Designer.cs",
+              "RelativeDocumentMoniker": "Lab05_VLE\\FrmXuat.Designer.cs",
+              "ToolTip": "C:\\Users\\MY COMPUTER\\source\\repos\\Lab05_VLE\\Lab05_VLE\\FrmXuat.Designer.cs",
+              "RelativeToolTip": "Lab05_VLE\\FrmXuat.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:37:30.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MY COMPUTER\\source\\repos\\Lab05_VLE\\Lab05_VLE\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab05_VLE\\Form1.cs",
+              "ToolTip": "C:\\Users\\MY COMPUTER\\source\\repos\\Lab05_VLE\\Lab05_VLE\\Form1.cs",
+              "RelativeToolTip": "Lab05_VLE\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:36:51.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmXuat.cs",
+              "DocumentMoniker": "C:\\Users\\MY COMPUTER\\source\\repos\\Lab05_VLE\\Lab05_VLE\\FrmXuat.cs",
+              "RelativeDocumentMoniker": "Lab05_VLE\\FrmXuat.cs",
+              "ToolTip": "C:\\Users\\MY COMPUTER\\source\\repos\\Lab05_VLE\\Lab05_VLE\\FrmXuat.cs",
+              "RelativeToolTip": "Lab05_VLE\\FrmXuat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:30:32.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY COMPUTER\\source\\repos\\Lab05_VLE\\Lab05_VLE\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab05_VLE\\Form1.cs",
+              "ToolTip": "C:\\Users\\MY COMPUTER\\source\\repos\\Lab05_VLE\\Lab05_VLE\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab05_VLE\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:17:17.377Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

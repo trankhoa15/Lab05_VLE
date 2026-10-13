@@ -1,0 +1,11 @@
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\obj\Debug\Lab05_VLE.csproj.AssemblyReference.cache
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\obj\Debug\Lab05_VLE.FrmNhapLieu.resources
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\obj\Debug\Lab05_VLE.frmXuat.resources
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\obj\Debug\Lab05_VLE.Properties.Resources.resources
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\obj\Debug\Lab05_VLE.csproj.GenerateResource.cache
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\obj\Debug\Lab05_VLE.csproj.CoreCompileInputs.cache
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\bin\Debug\Lab05_VLE.exe.config
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\bin\Debug\Lab05_VLE.exe
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\bin\Debug\Lab05_VLE.pdb
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\obj\Debug\Lab05_VLE.exe
+C:\Users\MY COMPUTER\source\repos\Lab05_VLE\Lab05_VLE\obj\Debug\Lab05_VLE.pdb
